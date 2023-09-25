@@ -224,7 +224,7 @@
     width: 33.3%;
 }
 
-.lots_card-list-item:last-child{
+.lots_card-list-item:last-child {
     width: 33.3%;
 }
 
@@ -380,7 +380,7 @@
 
 .footer_menu {
     /* блок навигации по списку ссылок */
-    display: flex; 
+    display: flex;
     flex-direction: column;
 }
 
